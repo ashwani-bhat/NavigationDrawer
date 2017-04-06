@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_i1">Index1</string>
+    <string name="nav_i2">Index2</string>
+    <string name="nav_i3">Index3</string>
+    <string name="nav_i4">Index4</string>
+
+    <string-array name="nav_item_activity_titles">
+        <item>Index1</item>
+        <item>Index2</item>
+        <item>Index3</item>
+        <item>Index4</item>
+    </string-array>
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+</resources>
